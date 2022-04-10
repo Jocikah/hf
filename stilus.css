@@ -1,15 +1,14 @@
 body {
     background-color: lightgrey;
-    
 }
 
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 300%;
+
 }
 
 p {
-    font-size: 200%;
+   font-size: 120%; 
 }
 
 strong {
@@ -20,13 +19,13 @@ div {
     border: solid;
     padding: 12%;
     border-image-source:url(Cartoon.jfif);
-    border-image-width: 100%;
-    border-image-slice: fill;
     box-shadow:20px 20px 25px black;
-    width: 60%;
+    font-size: 170%;
     height: 10cm;
+    width: 60%;
     margin: auto;
     background-color: lightgoldenrodyellow;
-    text-align: center ;
-    
+    text-align: center;
+    border-image-width: 100px;
+    border-image-slice: 100;
 }
